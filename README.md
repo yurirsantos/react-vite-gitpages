@@ -48,6 +48,8 @@ Em seu GitHub, crie um repositório no mesmo nome do projeto, e faça ps seguint
 
 <code> git init </code>
 
+<code> git add . </code>
+
 <code> git commit -m "first commit" </code>
 
 <code> git branch -M 'main' </code>
